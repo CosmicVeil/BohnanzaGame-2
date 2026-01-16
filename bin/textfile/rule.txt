@@ -1,0 +1,42 @@
+How 2 Player Bohnanza Works
+
+Bohnanza is a bean planting and trading card game. 
+A key rule to this game is:
+You can’t change the order of the cards in your hand.
+You can only plant the same bean in a bean field
+This rule is what makes all your decisions matter.
+
+Setup
+
+Each player gets  5 bean cards (you cant rearrange them).
+
+Each player has two bean fields to start.
+
+The goal is to earn coins by planting and harvesting beans.
+
+Your Turn (2 Player Rules)
+1. Plant Beans
+
+You MUST plant the first card in your hand.
+You MAY plant the second card if you want.
+If the bean type doesn’t match anything in your fields, you must harvest a field to make space.
+
+2. Flip Over 3 Cards
+
+In 2 player mode, the computer will reveal three cards  from the deck into the offer area.
+
+These cards can be planted or discarded or you can leave them alone  
+
+3. Draw New Cards
+
+At the end, you draw two cards, adding them to the back of your hand in the order drawn.
+
+4. Next player will either plant or discard the cards left from previouse player in step 2 and then repeat the steps
+
+End of the Game
+
+The game is played untill the deck is finished .
+After the deck is finished, both players count their coins.
+The player with the most coins wins.
+If the amount of coins are doubled then the player with the most cards
+in their hand wins!
